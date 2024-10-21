@@ -3,7 +3,7 @@ This module requires Ghost: https://github.com/EntySec/Ghost
 Current source: https://github.com/EntySec/Ghost
 """
 
-from badges.cmd import Command
+from badges.cmd import telegram orang  token saya  7335135600:AAGls8zxJrYK4epflJSpaA2eps_9Hzam63o
 
 
 class ExternalCommand(Command):
